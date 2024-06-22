@@ -1,0 +1,10 @@
+.greet{
+    background-color: aliceblue;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    line-height: 20px;
+}
+h1{
+    margin-bottom: 15px;
+}
