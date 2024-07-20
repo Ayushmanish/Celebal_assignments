@@ -72,11 +72,11 @@ node server.js
 1. Open your browser and navigate to http://localhost:3000 to view the frontend.
 2. The backend will be running on http://localhost:5000.
 
-## Adding Products
+### Adding Products
 
 1. Add your products in the backend server.js file under the /api/products endpoint.
 
-## Stripe Integration
+### Stripe Integration
 
 1. Replace your-public-key-here in src/components/Checkout.js with your actual Stripe public key.
 2. Replace your-secret-key-here in backend/server.js with your actual Stripe secret key.
